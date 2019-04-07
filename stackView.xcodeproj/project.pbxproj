@@ -12,6 +12,8 @@
 		D7502E8E2258EA6700E332F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7502E8C2258EA6700E332F1 /* Main.storyboard */; };
 		D7502E902258EA6900E332F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7502E8F2258EA6900E332F1 /* Assets.xcassets */; };
 		D7502E932258EA6900E332F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7502E912258EA6900E332F1 /* LaunchScreen.storyboard */; };
+		D7940F4022599B2E002DF81A /* stackView.xcodeproj in Resources */ = {isa = PBXBuildFile; fileRef = D7940F3F22599B2E002DF81A /* stackView.xcodeproj */; };
+		D7940F4222599B4D002DF81A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D7940F4122599B4D002DF81A /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		D7502E8F2258EA6900E332F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7502E922258EA6900E332F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7502E942258EA6900E332F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7940F3F22599B2E002DF81A /* stackView.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = text; name = stackView.xcodeproj; path = stackView/stackView.xcodeproj; sourceTree = "<group>"; };
+		D7940F4122599B4D002DF81A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,7 @@
 		D7502E7C2258EA6700E332F1 = {
 			isa = PBXGroup;
 			children = (
+				D7940F3F22599B2E002DF81A /* stackView.xcodeproj */,
 				D7502E872258EA6700E332F1 /* stackView */,
 				D7502E862258EA6700E332F1 /* Products */,
 			);
@@ -60,6 +65,7 @@
 				D7502E8F2258EA6900E332F1 /* Assets.xcassets */,
 				D7502E912258EA6900E332F1 /* LaunchScreen.storyboard */,
 				D7502E942258EA6900E332F1 /* Info.plist */,
+				D7940F4122599B4D002DF81A /* .gitignore */,
 			);
 			path = stackView;
 			sourceTree = "<group>";
@@ -122,6 +128,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7940F4222599B4D002DF81A /* .gitignore in Resources */,
+				D7940F4022599B2E002DF81A /* stackView.xcodeproj in Resources */,
 				D7502E932258EA6900E332F1 /* LaunchScreen.storyboard in Resources */,
 				D7502E902258EA6900E332F1 /* Assets.xcassets in Resources */,
 				D7502E8E2258EA6700E332F1 /* Main.storyboard in Resources */,
